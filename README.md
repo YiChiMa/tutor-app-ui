@@ -4,7 +4,7 @@
 
 This image is large (66 MB). So it might show up very slowly.
 
-![Overall Design](/pdf_format/FlowChartCompressed-1.png)
+![Overall Design](FlowChartCompressed-1.png)
 
 
-* The design is also available in pdf format [here](https://github.com/YiChiMa/tutor-app-ui).
+* The design is also available in pdf format [here](https://github.com/YiChiMa/pdf_format/tutor-app-ui).
